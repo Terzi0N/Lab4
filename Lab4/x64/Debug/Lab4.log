@@ -1,0 +1,9 @@
+﻿  task3.c
+c:\users\geralt\desktop\lab4\lab4\task3.c(2): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\geralt\desktop\lab4\lab4\task3.c(3): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\geralt\desktop\lab4\lab4\task3.c(3): warning C4312: приведение типов: преобразование из "int" в "int *" большего размера
+c:\users\geralt\desktop\lab4\lab4\task3.c(5): warning C4013: scanf: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\geralt\desktop\lab4\lab4\task3.c(7): warning C4013: increment: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\geralt\desktop\lab4\lab4\task3.c(9): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  Lab4.vcxproj -> C:\Users\Geralt\Desktop\Lab4\x64\Debug\Lab4.exe
+  Lab4.vcxproj -> C:\Users\Geralt\Desktop\Lab4\x64\Debug\Lab4.pdb (Partial PDB)
